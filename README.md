@@ -1,4 +1,4 @@
-# Ig-brute
+# Masio-INSH
 ### Instagram Bruter
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
