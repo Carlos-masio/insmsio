@@ -3,7 +3,7 @@
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
 [![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/)
+
 
 
 
@@ -12,8 +12,6 @@ This program will brute force any Instagram account you send it its way. Just gi
 ### NOTICE
 
 I'm no longer maintaining this project.
-
-### Support me
 
 
 ### Requirements
